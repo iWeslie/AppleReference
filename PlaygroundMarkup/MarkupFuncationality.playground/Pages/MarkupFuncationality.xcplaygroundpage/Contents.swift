@@ -44,12 +44,12 @@
  A loop to print each character on a seperate line
  
     for character in "Aesop" {
-        println(character)
+        print(character)
     }
  
  ````
  for character in "Aesop" {
-    println(character)
+    print(character)
  }
  ````
  

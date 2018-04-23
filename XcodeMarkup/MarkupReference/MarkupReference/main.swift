@@ -108,5 +108,3 @@ versionExample()
 /// Warning
 warningExample()
 
-
-abc(serg: 1, aaa: 2)
